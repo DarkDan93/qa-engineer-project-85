@@ -1,0 +1,35 @@
+- summary: |
+    Проверка авторизации через GitHub
+  status: pass
+
+- summary: |
+    Проверка игры между двумя пользователями
+  status: pass
+
+- summary: |
+    Проверка игры против бота
+  status: pass
+
+- summary: |
+    Проверка отображения рейтинга игроков
+  status: pass
+
+- summary: |
+    Проверка работы чата
+  status: pass
+
+- summary: |
+    Проверка создания турнира
+  status: pass
+
+- summary: |
+    Проверка выбора языка программирования при решении задач
+  status: pass
+
+- summary: |
+    Проверка присоединения к турниру
+  status: pass
+
+- summary: |
+    Проверка игры с друзьями
+  status: pass
