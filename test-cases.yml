@@ -26,7 +26,6 @@
   steps:
     - Нажать на кнопку CREATE A GAME
     - Выбрать With other user в разделе Game Type
-    - Другие разделы (такие как Level, Time Control, Choose task by name or tags) выбрать на своё усмотрение или оставить неизменными
     - Нажать Create battle
   expected-result: |
     Начнётся поиск битвы с другим пользователем
@@ -42,7 +41,6 @@
   steps:
     - Нажать на кнопку CREATE A GAME
     - Выбрать With a bot в разделе Game Type
-    - Другие разделы (такие как Level, Time Control, Choose task by name or tags) выбрать на своё усмотрение или оставить неизменными
     - Нажать Create battle
   expected-result: |
     Начнётся битва с ботом
@@ -132,7 +130,6 @@
     - Нажать на кнопку CREATE A GAME
     - Выбрать With friend в разделе Game Type
     - В разделе Choose opponent ввести имя друга и выбрать
-    - Другие разделы (такие как Level, Time Control, Choose task by name or tags) выбрать на своё усмотрение или оставить неизменными
     - Нажать Create battle
   expected-result: |
     Отправляется приглашение на игру другу   
